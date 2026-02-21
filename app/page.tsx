@@ -1,5 +1,5 @@
-export default function Home() {
+export default function HomeTela() {
   return (
-    <h1>Olá Mundo</h1>
+    <h1>Tela Home</h1>
   )
 }
